@@ -8,13 +8,13 @@ import meal from "../img/burger.png";
 
 const SideComponent = () => {
   return (
-    <div class="col-sm-3 px-1  min-vh-100 min-vw-20">
-      <div class="py-2 sticky-top flex-grow-1">
-        <div class="nav flex-sm-column">
+    <div className="col-sm-3 px-1  min-vh-100 min-vw-20">
+      <div className="py-2 sticky-top flex-grow-1">
+        <div className="nav flex-sm-column">
           <div className="container mt-4 ml-2">
             <div className="container">
               <ul className="list-group list-group-flush">
-                <li className="list-group-item d-flex justify-content-between align-items-center ">
+                <li className="list-group-item d-flex justify-content-between align-items-center text-primary ">
                   {" "}
                   Dashboard
                   <span>

@@ -9,7 +9,6 @@ function App() {
   return (
     <div>
       <Navbar />
-
       <div className="row">
         <SideComponent />
         <div className="col bg-light">
