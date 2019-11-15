@@ -11,7 +11,7 @@ const LandingPage = () => {
       <p className="text-white lead">
         Keep a count on the amount of calories you consume
       </p>
-      <Link to="/" className="btn btn-primary mx-3 btn-lg">
+      <Link to="/signup" className="btn btn-primary mx-3 btn-lg">
         Sign Up
       </Link>
       <Link to="/login" className="btn btn-danger mx-3 btn-lg">
