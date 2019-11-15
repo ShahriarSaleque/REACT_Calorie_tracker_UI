@@ -1,9 +1,9 @@
 import React from "react";
-import SideComponent from "./components/SideComponent";
-import MainComponent from "./components/MainComponent";
 
 //Components
 import Navbar from "./components/Navbar";
+import SideComponent from "./components/SideComponent";
+import MainComponent from "./components/MainComponent";
 
 function App() {
   return (
