@@ -4,7 +4,7 @@ import message from "../img/envelope.png";
 
 const Navbar = () => {
   return (
-    <nav className="navbar navbar-expand-sm navbar-light bg-light">
+    <nav className="navbar navbar-expand-sm navbar-light">
       <div className="container">
         <a className="navbar-brand" href="#">
           Calorie<span className="text-primary">Tracker</span>
