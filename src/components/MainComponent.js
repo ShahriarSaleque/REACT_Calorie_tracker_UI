@@ -8,6 +8,9 @@ const MainComponent = () => {
   //Handle events
   const onSubmit = e => {
     e.preventDefault();
+    console.log(meal, calorie);
+    setMeal("");
+    setCalorie(0);
   };
 
   const onChange = e => {
